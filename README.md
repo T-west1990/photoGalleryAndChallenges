@@ -25,5 +25,14 @@ This project is an interactive photo gallery built with HTML, CSS, and JavaScrip
 - Cross-browser compatibility
 
 ## Author
+## Coding Challenges
+
+### Array Manipulation
+
+The solution to the array manipulation problem is in `arrayMap.js`. This function checks if a contiguous subarray sums up to a target value.
+
+### String Transformation
+
+The solution to the string transformation problem is in `stringTransform.js`. This function transforms a string based on its length being divisible by 3, 5, or both.
 
 - [Tuyizere Bizaza Alain](https://github.com/T-west1990)
